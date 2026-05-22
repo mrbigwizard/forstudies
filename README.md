@@ -1,1 +1,3 @@
 # forstudies
+
+repository for learning
